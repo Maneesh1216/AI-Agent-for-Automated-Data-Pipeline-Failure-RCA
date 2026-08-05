@@ -1,0 +1,3 @@
+# Core — the project runs with only this.
+# Everything else is an optional upgrade, detected at runtime.
+# (numpy is not required: the knowledge base uses pure-Python TF-IDF.)
